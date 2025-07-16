@@ -1,0 +1,22 @@
+{
+  "ios_to_android": {
+    "UIButton": "Button",
+    "UILabel": "TextView",
+    "UITextField": "EditText",
+    "UITableView": "RecyclerView",
+    "UIViewController": "Activity",
+    "UINavigationController": "NavHostFragment",
+    "UISwitch": "Switch",
+    "UIImageView": "ImageView"
+  },
+  "android_to_ios": {
+    "Button": "UIButton",
+    "TextView": "UILabel",
+    "EditText": "UITextField",
+    "RecyclerView": "UITableView",
+    "Activity": "UIViewController",
+    "NavHostFragment": "UINavigationController",
+    "Switch": "UISwitch",
+    "ImageView": "UIImageView"
+  }
+}
